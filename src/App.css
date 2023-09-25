@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.card-img-top{
+  overflow: hidden;
+}
+
+.card-img-top:hover{
+  scale: 1.05;
+  transition: all ease 0.7s;
+}
